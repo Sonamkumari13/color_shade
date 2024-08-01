@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/BrownShade.dart';
-import 'package:my_app/GreenShade.dart';
-import 'package:my_app/OrangeShade.dart';
-import 'package:my_app/PinkShade.dart';
-import 'package:my_app/PurpleShade.dart';
-import 'package:my_app/RedShade.dart';
-import 'package:my_app/YellowShade.dart';
+import 'package:my_app/ColorApp/BrownShade.dart';
+import 'package:my_app/ColorApp/GreenShade.dart';
+import 'package:my_app/ColorApp/OrangeShade.dart';
+import 'package:my_app/ColorApp/PinkShade.dart';
+import 'package:my_app/ColorApp/PurpleShade.dart';
+import 'package:my_app/ColorApp/RedShade.dart';
+import 'package:my_app/ColorApp/YellowShade.dart';
 import 'BlueShade.dart';
 
 class DiffColors extends StatefulWidget{
